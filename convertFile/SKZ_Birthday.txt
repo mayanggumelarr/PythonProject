@@ -1,0 +1,49 @@
+DATA MEMBER STRAY KIDS 
+
+1. Bang Chan
+    Nama Lahir      : Christoper Bang
+    Tanggal Lahir   : 3 Oktober 1997
+    Posisi          : Leader, Dancer, Rapper
+    Tinggi Badan    : 171 cm
+
+2. Lee Know
+    Nama Lahir      : Lee Min Ho
+    Tanggal Lahir   : 25 Oktober 1998
+    Posisi          : Dancer, Vokalis
+    Tinggi Badan    : 172 cm
+
+3. Changbin
+    Nama Lahir      : Seo Chang Bin
+    Tanggal Lahir   : 11 Agustus 1999
+    Posisi          : Rapper
+    Tinggi Badan    : 167 cm
+
+4. Hyunjin
+    Nama Lahir      : Hwang Hyun Jin
+    Tanggal Lahir   : 20 Maret 2000
+    Posisi          : Dancer, Rapper, Visual
+    Tinggi Badan    : 179 cm
+
+5. Han
+    Nama Lahir      : Han Ji Sung
+    Tanggal Lahir   : 14 September 2000
+    Posisi          : Rapper, Vokalis
+    Tinggi Badan    : 169 cm
+
+6. Felix
+    Nama Lahir      : Felix Lee
+    Tanggal Lahir   : 15 September 2000
+    Posisi          : Dancer, Rapper
+    Tinggi Badan    : 170 cm
+
+6. Seungmin
+    Nama Lahir      : Kim Seung Min
+    Tanggal Lahir   : 22 September 2000
+    Posisi          : Vokalis
+    Tinggi Badan    : 178 cm
+
+6. I.N
+    Nama Lahir      : Yang Jeong In
+    Tanggal Lahir   : 8 Februari 2001
+    Posisi          : Vokalis, Maknae
+    Tinggi Badan    : 172 cm
